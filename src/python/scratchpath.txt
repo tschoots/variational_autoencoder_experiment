@@ -1,0 +1,2 @@
+# tutor 05-09-2018
+https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
